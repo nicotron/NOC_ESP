@@ -9,3 +9,13 @@ Integrantes:
 
 Guía:
 [@Sergio Majluf](https://github.com/sergiomajluf)
+
+Entonces el ejemplo se escribe así:
+
+```javascript
+void draw(){
+	ellipse(asdfsadf);
+}
+```
+
+y ahora te toca ati!!
